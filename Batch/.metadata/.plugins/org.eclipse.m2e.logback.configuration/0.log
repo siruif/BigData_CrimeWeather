@@ -1,0 +1,169 @@
+2016-12-03 21:26:28,948 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2016-12-03 21:27:21,371 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.uchicago.mpcs53013:CrimeIngest:0.0.1-SNAPSHOT @ /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/pom.xml.
+2016-12-03 21:27:24,024 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:27:25,952 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.uchicago.mpcs53013:CrimeIngest:0.0.1-SNAPSHOT @ /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/pom.xml.
+2016-12-03 21:27:26,015 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:27:26,015 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:27:26,224 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-03 21:27:26,363 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:27:26,363 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:27:31,665 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:27:31,668 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:27:31,669 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:27:31,669 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:27:31,670 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:39:59,507 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:39:59,534 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:39:59,534 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:39:59,541 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:39:59,546 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:41:32,765 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:41:32,771 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:41:32,771 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:41:32,772 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:41:32,772 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:43:22,663 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:43:22,664 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:43:22,664 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:43:22,671 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:43:22,676 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:44:03,442 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:44:03,443 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:44:03,443 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:44:03,444 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:44:03,444 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:45:49,593 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:45:49,608 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:45:49,608 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:45:49,614 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:45:49,614 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:51:34,035 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:51:34,037 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:51:34,037 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:51:34,039 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:51:34,039 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:51:45,965 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:51:45,981 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:51:45,982 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:51:45,984 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:51:45,984 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:52:00,898 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest
+2016-12-03 21:52:00,899 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2016-12-03 21:52:04,122 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:52:04,150 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:52:04,150 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:52:04,155 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:52:04,156 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:52:09,499 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest
+2016-12-03 21:52:09,500 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-12-03 21:52:23,104 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:52:23,106 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:52:23,107 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:52:23,114 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:52:23,115 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:54:05,187 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:54:05,189 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:54:05,189 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:54:05,189 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:54:05,189 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:54:36,017 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:54:36,023 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:54:36,024 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:54:36,025 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:54:36,025 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:56:37,972 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:56:37,983 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:56:37,990 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:56:37,991 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:56:37,991 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-03 21:59:08,071 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-03 21:59:08,075 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:59:08,075 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-03 21:59:08,077 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 21:59:08,077 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 08:44:55,134 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2016-12-04 08:45:30,418 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.uchicago.mpcs53013:CrimeIngest:0.0.1-SNAPSHOT @ /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/pom.xml.
+2016-12-04 08:45:30,541 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.uchicago.mpcs53013:CrimeIngest:0.0.1-SNAPSHOT @ /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/pom.xml.
+2016-12-04 08:45:33,791 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 08:45:34,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:45:34,977 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 08:45:34,994 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-04 08:45:35,042 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:45:35,043 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 08:45:37,776 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.uchicago.mpcs53013:CrimeIngest:0.0.1-SNAPSHOT @ /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/pom.xml.
+2016-12-04 08:45:40,559 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 08:45:40,939 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:45:40,943 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 08:45:40,968 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:45:40,970 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 08:45:42,748 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 08:45:42,760 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:45:42,770 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 08:45:42,772 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:45:42,772 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 08:50:01,248 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 08:50:01,260 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:50:01,260 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 08:50:01,269 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:50:01,269 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 08:50:48,540 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 08:50:48,544 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:50:48,545 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 08:50:48,545 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:50:48,545 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 08:51:14,623 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 08:51:14,632 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:51:14,640 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 08:51:14,650 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 08:51:14,654 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:47:14,507 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2016-12-04 19:48:08,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:48:09,561 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:48:09,561 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:48:09,588 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:48:09,588 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:48:50,024 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:48:50,025 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:48:50,025 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:48:50,027 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:48:50,027 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:48:54,346 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:48:54,350 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:48:54,350 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:48:54,360 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:48:54,361 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:49:20,871 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:49:20,875 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:49:20,876 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:49:20,876 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:49:20,876 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:49:35,571 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:49:35,590 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:49:35,590 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:49:35,594 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:49:35,595 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:49:41,970 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:49:41,972 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:49:41,972 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:49:41,972 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:49:41,972 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:49:58,129 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:49:58,140 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:49:58,140 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:49:58,148 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:49:58,148 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:50:18,169 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:50:18,191 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:50:18,193 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:50:18,212 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:50:18,213 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:50:29,779 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:50:29,781 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:50:29,781 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:50:29,782 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:50:29,782 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources
+2016-12-04 19:50:51,166 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/target/generated-sources/thrift added.
+2016-12-04 19:50:51,178 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:50:51,179 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/main/resources
+2016-12-04 19:50:51,192 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:50:51,192 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/mpcs53013/workspace/FinalProject/Batch/CrimeIngest/src/test/resources

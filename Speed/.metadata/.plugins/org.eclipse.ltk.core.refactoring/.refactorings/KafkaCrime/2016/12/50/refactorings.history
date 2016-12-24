@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;KafkaCrime/target/uber-Kafka-Weather-0.0.1-SNAPSHOT.jar&apos; to &apos;uber-KafkaCrime-0.0.1-SNAPSHOT.jar&apos;" description="Rename resource &apos;uber-Kafka-Weather-0.0.1-SNAPSHOT.jar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="target/uber-Kafka-Weather-0.0.1-SNAPSHOT.jar" name="uber-KafkaCrime-0.0.1-SNAPSHOT.jar" stamp="1481131395783" updateReferences="true"/>
+</session>
